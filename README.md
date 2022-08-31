@@ -17,8 +17,12 @@
 
 <img align="center" alt="jogo-pic" height="400" src="./mídia/1661815347671.jpg"/>
 
-<p>O aplicativo também permite curtir as noticias e separalas em outra aba</p>
+<p>O aplicativo também permite favoritar as noticias e separalas em outra aba</p>
 
 <img align="center" alt="jogo-pic" height="400" src="./mídia/1661815347601.jpg"/>
+
+<p>As noticias favoritadas ficarão disponiveis em outra aba e pode ser acessada de sem coneção com a internet</p>
+
+<img align="center" alt="jogo-pic" height="400" src="./mídia/1661815347526.jpg"/>
 
 </div>
